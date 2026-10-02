@@ -1,6 +1,3 @@
-
-**ملاحظة مهمة:** الـrepo الحالي فيه documentation كتهضر على Meta WhatsApp Cloud API. ما غاديش نزيد claim جديد من عندي؛ خليت README مبني على الوظائف اللي موثقة فعلاً فالrepo.
-
 ---
 
 # 7. `adam-radi/kri-online`
